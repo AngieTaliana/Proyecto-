@@ -1,7 +1,9 @@
+.contenedor
 body {
     font-family: Arial, sans-serif;
-    margin: 150px;
-    padding: 0;
+    margin: 100px;
+    height: 1200;
+    background-color: aqua;
 }
 .section {
     padding: 50px;
